@@ -11,6 +11,14 @@ To design a smart lighting circuit that detects ambient light intensity and auto
 
 ---
 
+## Team Members
+- Khushi Desai
+- Siya Bhalala
+- Haiya Patel
+- Jharna Nakrani
+
+---
+
 ## Components Used
 - Op-Amp IC 741
 - LDR (Light Dependent Resistor)
