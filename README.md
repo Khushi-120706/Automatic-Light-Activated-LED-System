@@ -41,8 +41,8 @@ When light intensity increases, the LED turns OFF.
 ## Hardware
 ![Hardware](AE_MP_Hardware.jpeg)
 
-## Hardware Output
-![Hardware Output](AE_MP_Implementation.png)
+## Hardware Implementation
+![Hardware Implementation](AE_MP_Implementation.png)
 
 ---
 
