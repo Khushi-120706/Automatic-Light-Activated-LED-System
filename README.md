@@ -11,6 +11,13 @@ To design a smart lighting circuit that detects ambient light intensity and auto
 
 ---
 
+## Guided By
+Prof.(Dr.) Chirag Paunwala
+Prof. Neeta Chapatwala
+Prof.(Dr.) Sarosh Dastoor
+
+---
+
 ## Team Members
 - Khushi Desai
 - Dhwanil Doshi
