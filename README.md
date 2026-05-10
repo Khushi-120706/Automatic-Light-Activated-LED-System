@@ -13,8 +13,8 @@ To design a smart lighting circuit that detects ambient light intensity and auto
 
 ## Team Members
 - Khushi Desai
-- Siya Bhalala
-- Haiya Patel
+- Dhwanil Doshi
+- Henil Prajapati
 - Jharna Nakrani
 
 ---
